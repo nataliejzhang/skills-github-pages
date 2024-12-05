@@ -1,6 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Hello world!"
 ---
 
-# Welcome to my first page.
+## Welcome to my first page.
 This is a sample page.
